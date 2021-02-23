@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rubrica</string>
+    <string name="addressbook">Address Book</string>
+    <string name="textfirstname">Nome:</string>
+    <string name="textsurname">Cognome:</string>
+    <string name="textphone">Telepono</string>
+    <string name="buttonInsert">Aggiungi</string>
+    <string name="buttoonAddressBook">Rubrica</string>
+    <string name="buttonUpdate">Modifica</string>
+    <string name="buttonDelete">Cancella</string>
+    <string name="URLWEB">https://www.miosito/addressbook.php</string>
+</resources>
